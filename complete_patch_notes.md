@@ -1,5 +1,12 @@
-# Animal Crossing: New Horizons - Master Patch Notes
-## Version 1.0.0 to 2.0.8
+# Animal Crossing: New Horizons - Master Patch Notes<br>
+
+## Current version: 2.0.8 (released June 18, 2025)
+
+From its release in March 2020 to November 2021, Animal Crossing: New Horizons received twelve free content updates and one paid DLC expansion. The free updates included new events, gameplay elements, characters, and items. Each update was released at 10 AM JST (1 AM UTC), causing them to be released the night before their scheduled release date in some regions, such as the Americas. The Happy Home Paradise expansion, however, was unlocked at 12 AM local time in all regions.
+
+Online multiplayer can only be participated in if the most recent update is installed. The version number is displayed on the title screen and when talking to Orville about multiplayer functions.
+
+Below is a timeline of updates, as well as their official North American patch notes where available. For more information, refer to the respective articles on each major update. (Versions 1.1.0 to 2.0.8)
 
 ---
 
@@ -36,69 +43,71 @@ The multiplayer aspect of New Horizons was activated in 1.1.0, allowed player to
 
 #### Items added in 1.1.0
 
-##### Item                  Type           Buy price      Sell price    Available from
-ACNH Nintendo Switch     	Furniture 	35,960 Bells   	 8,990 Bells 	Nook Shopping;  Nintendo
-Brake Tapper             	Furniture 	 2,700 Bells   	   675 Bells    Nook Shopping	
-Bunny Day arch           	Furniture 	Not for sale     4,800 Bells 	Crafting	
-Bunny Day basket         	Furniture 	Not for sale   	 1,200 Bells 	Zipper	
-Bunny Day bed               Furniture 	Not for sale   	 2,400 Bells 	Crafting	
-Bunny Day festive balloons 	Furniture 	Not for sale   	 1,200 Bells 	Crafting	
-Bunny Day glowy garland 	Furniture 	Not for sale   	 2,400 Bells 	Crafting	
-Bunny Day lamp           	Furniture 	Not for sale   	 1,600 Bells 	Crafting	
-Bunny Day merry balloons 	Furniture 	Not for sale   	 1,200 Bells 	Crafting	
-Bunny Day stool          	Furniture 	Not for sale   	 1,200 Bells 	Crafting	
-Bunny Day table         	Furniture 	Not for sale   	 1,600 Bells 	Crafting	
-Bunny Day vanity         	Furniture 	Not for sale   	 1,600 Bells 	Crafting	
-Bunny Day wall clock     	Furniture 	Not for sale   	 1,200 Bells 	Crafting	
-Bunny Day wardrobe      	Furniture 	Not for sale   	 1,600 Bells 	Crafting	
-Bunny Day wreath        	Furniture 	Not for sale   	 2,400 Bells 	Crafting	
-Campsite sign           	Furniture 	 2,500 Bells   	   625 Bells 	Nook Shopping	
-Fortune-cookie cart      	Furniture 	 2,600 Bells   	   650 Bells 	Nook Shopping	
-Market Place decoration 	Furniture 	 3,200 Bells   	   800 Bells 	Nook Shopping	
-Nintendo Switch         	Furniture 	29,980 Bells     7,495 Bells 	Nook Shopping;  Nintendo
-OK Motors sign          	Furniture 	 3,000 Bells       750 Bells 	Nook Shopping	
-Pocket modern camper    	Furniture 	 1,500 Bells   	   375 Bells 	Nook Shopping	
-Pocket vintage camper   	Furniture 	 1,500 Bells   	   375 Bells 	Nook Shopping	
-Wobbling Zipper toy     	Furniture 	Not for sale   	 9,600 Bells 	Crafting	
-Bunny Day bag           	Clothing 	Not for sale   	 2,400 Bells 	Crafting	
-Bunny Day crown         	Clothing 	Not for sale   	 2,400 Bells 	Crafting	
-Camper tee               	Clothing 	   840 Bells   	   210 Bells 	Nook Shopping	
-Earth-egg outfit        	Clothing 	Not for sale   	 1,200 Bells 	Crafting	
-Earth-egg shell          	Clothing 	Not for sale       800 Bells 	Crafting	
-Earth-egg shoes         	Clothing 	Not for sale       800 Bells 	Crafting	
-Egg party dress          	Clothing 	Not for sale     7,200 Bells 	Crafting	
-Egg party hat           	Clothing 	Not for sale     4,800 Bells 	Crafting	
-Leaf-egg outfit         	Clothing 	Not for sale     1,200 Bells 	Crafting	
-Leaf-egg shell          	Clothing 	Not for sale   	   800 Bells 	Crafting	
-Leaf-egg shoes           	Clothing 	Not for sale   	   800 Bells 	Crafting	
-OK Motors cap           	Clothing 	   770 Bells   	   192 Bells 	Nook Shopping	
-OK Motors jacket        	Clothing 	 1,500 Bells   	   375 Bells 	Nook Shopping	
-Sky-egg outfit           	Clothing 	Not for sale   	 1,200 Bells 	Crafting	
-Sky-egg shell           	Clothing 	Not for sale   	   800 Bells 	Crafting	
-Sky-egg shoes           	Clothing 	Not for sale   	   800 Bells 	Crafting	
-Stone-egg outfit         	Clothing 	Not for sale   	 1,200 Bells 	Crafting	
-Stone-egg shell         	Clothing 	Not for sale       800 Bells 	Crafting	
-Stone-egg shoes         	Clothing 	Not for sale   	   800 Bells 	Crafting	
-Water-egg outfit         	Clothing 	Not for sale     1,200 Bells 	Crafting	
-Water-egg shell         	Clothing 	Not for sale       800 Bells 	Crafting	
-Water-egg shoes         	Clothing 	Not for sale       800 Bells 	Crafting	
-Wood-egg outfit         	Clothing 	Not for sale     1,200 Bells 	Crafting	
-Wood-egg shell          	Clothing 	Not for sale       800 Bells 	Crafting	
-Wood-egg shoes          	Clothing 	Not for sale   	   800 Bells 	Crafting	
-Bunny Day flooring       	Interior 	Not for sale     4,800 Bells 	Crafting	
-Bunny Day rug 	            Interior 	Not for sale     2,400 Bells 	Crafting	
-Bunny Day wall          	Interior 	Not for sale     4,800 Bells 	Crafting	
-Nook Inc. botanical rug 	Interior 	 1,000 Miles     5,000 Bells 	Nook Stop	
-Nook Inc. silk rug       	Interior 	   600 Miles     3,000 Bells 	Nook Stop	
-Bunny Day wand 	            Tool    	Not for sale 	11,100 Bells 	Crafting	
-Earth egg 	                Material    Not for sale 	   200 Bells 	Dig spot;   Zipper
-Leaf egg 	                Material    Not for sale 	   200 Bells 	Tree;       Zipper
-Sky egg 	                Material    Not for sale 	   200 Bells 	Balloons;   Zipper
-Stone egg               	Material    Not for sale 	   200 Bells 	Rocks;      Zipper
-Water egg               	Material    Not for sale 	   200 Bells 	Fishing;    Zipper
-Wood egg 	                Material    Not for sale 	   200 Bells 	Tree;       Zipper
-Bunny Day fence 	        Fence 	    Not for sale 	 2,400 Bells 	Crafting	
+| Item                       | Type      |        Buy price |   Sell price | Available from          |
+|----------------------------|-----------|------------------|--------------|-------------------------|
+| ACNH Nintendo Switch       | Furniture |     35,960 Bells |  8,990 Bells | Nook Shopping; Nintendo |
+| Brake Tapper               | Furniture |      2,700 Bells |    675 Bells | Nook Shopping           |
+| Bunny Day arch             | Furniture |     Not for sale |  4,800 Bells | Crafting                |
+| Bunny Day basket           | Furniture |     Not for sale |  1,200 Bells | Zipper                  |
+| Bunny Day bed              | Furniture |     Not for sale |  2,400 Bells | Crafting                |
+| Bunny Day festive balloons | Furniture |     Not for sale |  1,200 Bells | Crafting                |
+| Bunny Day glowy garland    | Furniture |     Not for sale |  2,400 Bells | Crafting                |
+| Bunny Day lamp             | Furniture |     Not for sale |  1,600 Bells | Crafting                |
+| Bunny Day merry balloons   | Furniture |     Not for sale |  1,200 Bells | Crafting                |
+| Bunny Day stool            | Furniture |     Not for sale |  1,200 Bells | Crafting                |
+| Bunny Day table            | Furniture |     Not for sale |  1,600 Bells | Crafting                |
+| Bunny Day vanity           | Furniture |     Not for sale |  1,600 Bells | Crafting                |
+| Bunny Day wall clock       | Furniture |     Not for sale |  1,200 Bells | Crafting                |
+| Bunny Day wardrobe         | Furniture |     Not for sale |  1,600 Bells | Crafting                |
+| Bunny Day wreath           | Furniture |     Not for sale |  2,400 Bells | Crafting                |
+| Campsite sign              | Furniture |      2,500 Bells |    625 Bells | Nook Shopping           |
+| Fortune-cookie cart        | Furniture |      2,600 Bells |    650 Bells | Nook Shopping           |
+| Market Place decoration    | Furniture |      3,200 Bells |    800 Bells | Nook Shopping           |
+| Nintendo Switch            | Furniture |     29,980 Bells |  7,495 Bells | Nook Shopping; Nintendo |
+| OK Motors sign             | Furniture |      3,000 Bells |    750 Bells | Nook Shopping           |
+| Pocket modern camper       | Furniture |      1,500 Bells |    375 Bells | Nook Shopping           |
+| Pocket vintage camper      | Furniture |      1,500 Bells |    375 Bells | Nook Shopping           |
+| Wobbling Zipper toy        | Furniture |     Not for sale |  9,600 Bells | Crafting                |
+| Bunny Day bag              | Clothing  |     Not for sale |  2,400 Bells | Crafting                |
+| Bunny Day crown            | Clothing  |     Not for sale |  2,400 Bells | Crafting                |
+| Camper tee                 | Clothing  |        840 Bells |    210 Bells | Nook Shopping           |
+| Earth-egg outfit           | Clothing  |     Not for sale |  1,200 Bells | Crafting                |
+| Earth-egg shell            | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Earth-egg shoes            | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Egg party dress            | Clothing  |     Not for sale |  7,200 Bells | Crafting                |
+| Egg party hat              | Clothing  |     Not for sale |  4,800 Bells | Crafting                |
+| Leaf-egg outfit            | Clothing  |     Not for sale |  1,200 Bells | Crafting                |
+| Leaf-egg shell             | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Leaf-egg shoes             | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| OK Motors cap              | Clothing  |        770 Bells |    192 Bells | Nook Shopping           |
+| OK Motors jacket           | Clothing  |      1,500 Bells |    375 Bells | Nook Shopping           |
+| Sky-egg outfit             | Clothing  |     Not for sale |  1,200 Bells | Crafting                |
+| Sky-egg shell              | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Sky-egg shoes              | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Stone-egg outfit           | Clothing  |     Not for sale |  1,200 Bells | Crafting                |
+| Stone-egg shell            | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Stone-egg shoes            | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Water-egg outfit           | Clothing  |     Not for sale |  1,200 Bells | Crafting                |
+| Water-egg shell            | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Water-egg shoes            | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Wood-egg outfit            | Clothing  |     Not for sale |  1,200 Bells | Crafting                |
+| Wood-egg shell             | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Wood-egg shoes             | Clothing  |     Not for sale |    800 Bells | Crafting                |
+| Bunny Day flooring         | Interior  |     Not for sale |  4,800 Bells | Crafting                |
+| Bunny Day rug              | Interior  |     Not for sale |  2,400 Bells | Crafting                |
+| Bunny Day wall             | Interior  |     Not for sale |  4,800 Bells | Crafting                |
+| Nook Inc. botanical rug    | Interior  | 1,000 Nook Miles |  5,000 Bells | Nook Stop               |
+| Nook Inc. silk rug         | Interior  |   600 Nook Miles |  3,000 Bells | Nook Stop               |
+| Bunny Day wand             | Tool      |     Not for sale | 11,100 Bells | Crafting                |
+| Earth egg                  | Material  |     Not for sale |    200 Bells | Dig spot; Zipper        |
+| Leaf egg                   | Material  |     Not for sale |    200 Bells | Tree; Zipper            |
+| Sky egg                    | Material  |     Not for sale |    200 Bells | Balloons; Zipper        |
+| Stone egg                  | Material  |     Not for sale |    200 Bells | Rocks; Zipper           |
+| Water egg                  | Material  |     Not for sale |    200 Bells | Fishing; Zipper         |
+| Wood egg                   | Material  |     Not for sale |    200 Bells | Tree; Zipper            |
+| Bunny Day fence            | Fence     |     Not for sale |  2,400 Bells | Crafting                |
 
+---
 
 ### Version 1.2.0 - April Free Update (April 23, 2020)
 
@@ -137,19 +146,19 @@ Several new holidays were introduced in 1.2.0.
 
 ##### Nature Day
 
-Nature Day makes its return as a method to obtain additional Nook Miles. Tom Nook will offer bonus Nook Miles+ objectives for the player to achieve, and after completing the first Nature Day-related task a DIY recipe for a hedge. 
+Nature Day makes its return as a method to obtain additional Nook Miles. Tom Nook will offer bonus Nook Miles+ objectives for the player to achieve, and after completing the first Nature Day-related task a DIY recipe for a hedge.
 
 ##### May Day
 
 May Day is a new event that runs from May 1 to May 7, where the player must traverse through a maze utilizing much of the game mechanics of New Horizons. At the end of the maze, Rover will greet the player, and offer Rover's briefcase as an award. Bell vouchers are also dispersed throughout the maze.
 
-This event is time-locked, and only unlocks on 1.2.xa. 
+This event is time-locked, and only unlocks on 1.2.xa.
 
 ##### International Museum Day
 
 International Museum Day is a new event that runs from May 18 to May 31. During the event, the player should explore around the museum across the bug, fish, and fossil exhibits for the location of stamp rallies. Once the player obtains all the stamps in one exhibit, Blathers will offer the respective plaque as an award to the player: bug plaque for the bug exhibit, fish plaque for the fish exhibit, and fossil plaque for the fossil exhibit.
 
-This event is time-locked, and only unlocks on 1.2.xb. 
+This event is time-locked, and only unlocks on 1.2.xb.
 
 ##### Wedding Season
 
@@ -157,7 +166,7 @@ Wedding Season is a new event that runs through the entirety of June, and primar
 
 After a few days, the player can invite their own villagers or special characters to participate in a makeshift party, and the player is rewarded from Harvey a recipe for a wedding fence and from Cyrus a recipe for a wedding wand. The player can continue to play in the event until the end of June, and Reese will challenge the player by using different wedding themes for their photo.
 
-This event is time-locked, and only unlocks on 1.2.xc. 
+This event is time-locked, and only unlocks on 1.2.xc.
 
 ##### Nook Shopping seasonal event
 
@@ -177,145 +186,147 @@ Wilbur now allows the player to send any items they have to their storage or be 
 
 #### Items added in 1.2.0
 
-##### Item                      Type                 Buy price          Sell price   Available from
-Academic painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Academic painting (fake) 	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Amazing painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Amazing painting (fake) 	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Ancient statue 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Ancient statue (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Basic painting 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Basic painting (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Beautiful statue 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Beautiful statue (fake) 	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Bug plaque 	                    Furniture 	      Not for sale 	       2,500 Bells 	 Blathers	
-Calm painting 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Common painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Detailed painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Detailed painting (fake) 	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Dynamic painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Familiar statue 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Famous painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Famous painting (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Fish plaque 	                Furniture 	      Not for sale 	       2,500 Bells 	 Blathers	
-Flowery painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Fossil plaque 	                Furniture 	      Not for sale 	       2,500 Bells 	 Blathers	
-Gallant statue 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Gallant statue (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Glowing painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Graceful painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Graceful painting (fake) 	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Great statue 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Informative statue 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Informative statue (fake) 	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Jolly painting 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Jolly painting (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Moody painting                  Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Motherly statue 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Motherly statue (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Moving painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Moving painting (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Mysterious painting 	        Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Mystic statue 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Mystic statue (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Nice painting           	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Perfect painting        	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Proper painting         	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Quaint painting         	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Quaint painting (fake)   	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Reese & Cyrus photo plate 	    Furniture 	      Not for sale 	         100 Bells 	 Reese	
-Robust statue           	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Robust statue (fake)    	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Rock-head statue        	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Rock-head statue (fake) 	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Rover's briefcase       	    Furniture 	      Not for sale 	       2,000 Bells 	 Rover	
-Scary painting           	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Scary painting (fake)    	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Scenic painting         	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Scenic painting (fake)  	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Serene painting (fake)  	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Sinking painting    	        Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Solemn painting     	        Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Solemn painting (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Thank-you Dad mug 	            Furniture 	         600 Bells 	         150 Bells 	 Nook Shopping	
-Thank-you Mom mug 	            Furniture 	         600 Bells 	         150 Bells 	 Nook Shopping	
-Tremendous statue 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Tremendous statue (fake) 	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Twinkling painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Valiant statue 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Valiant statue (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Warm painting 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Warrior statue 	                Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Warrior statue (fake) 	        Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Wedding arch 	                Furniture 	 20 heart crystals 	       5,000 Bells 	 Cyrus	
-Wedding bench 	                Furniture 	  5 heart crystals 	         875 Bells 	 Cyrus;	 Reese
-Wedding cake 	                Furniture 	  5 heart crystals 	       1,000 Bells 	 Cyrus	
-Wedding candle set 	            Furniture 	  4 heart crystals 	         300 Bells 	 Cyrus	
-Wedding chair 	                Furniture 	  3 heart crystals 	         500 Bells 	 Cyrus	
-Wedding decoration 	            Furniture 	  3 heart crystals 	         250 Bells 	 Cyrus	
-Wedding flower stand 	        Furniture 	  4 heart crystals 	       1,000 Bells 	 Cyrus	
-Wedding head table 	            Furniture 	  6 heart crystals 	         750 Bells 	 Cyrus	
-Wedding pipe organ 	            Furniture 	 40 heart crystals 	      25,000 Bells 	 Cyrus	
-Wedding table 	                Furniture 	  6 heart crystals 	       1,500 Bells 	 Cyrus	
-Wedding welcome board 	        Furniture 	  5 heart crystals 	         375 Bells 	 Cyrus	
-Wild painting left half 	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Wild painting left half (fake) 	Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Wild painting right half 	    Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Wild painting right half (fake) Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Wistful painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-Wistful painting (fake) 	    Furniture 	       4,980 Bells 	    Cannot be sold 	 Jolly Redd's Treasure Trawler;  Redd's Co-Op
-World map 	                    Furniture 	         640 Bells 	         160 Bells 	 Nook Shopping	 Nintendo
-Worthy painting 	            Furniture 	       4,980 Bells 	       1,245 Bells 	 Jolly Redd's Treasure Trawler	
-Bridal veil 	                Clothing 	 12 heart crystals 	       1,150 Bells 	 Cyrus	
-Coral Nook Inc. aloha shirt 	Clothing 	    600 Nook Miles 	       3,000 Bells 	 Nook Stop	
-Green Nook Inc. aloha shirt 	Clothing 	    600 Nook Miles 	       3,000 Bells 	 Nook Stop	
-Handmade cape 	                Clothing 	         500 Bells 	         125 Bells 	 Nook Shopping	
-Handmade crown 	                Clothing 	         300 Bells 	          75 Bells 	 Nook Shopping	
-Midwinter sweater 	            Clothing 	       1,200 Bells 	         300 Bells 	 Nook Shopping	
-Sunflower crown 	            Clothing 	       1,560 Bells 	         390 Bells 	 Nook Shopping	
-Wedding dress 	                Clothing 	 20 heart crystals 	       5,000 Bells 	 Cyrus	
-Wedding pumps 	                Clothing 	  6 heart crystals 	         750 Bells 	 Cyrus	
-Wedding shoes 	                Clothing 	  6 heart crystals 	         750 Bells 	 Cyrus	
-Wedding tuxedo 	                Clothing 	 20 heart crystals 	       3,000 Bells 	 Cyrus	
-Bell-bag rug 	                Interior 	  1,200 Nook Miles 	       6,000 Bells 	 Nook Stop;  Bank of Nook
-Blue wedding rug 	            Interior 	  4 heart crystals 	         375 Bells 	 Cyrus	
-Brown wedding flooring 	        Interior 	 12 heart crystals 	         750 Bells 	 Cyrus	
-Brown wedding wall 	            Interior 	 12 heart crystals 	         750 Bells 	 Cyrus	
-Green wedding flooring 	        Interior 	 12 heart crystals 	         750 Bells 	 Cyrus	
-Green wedding wall 	            Interior 	 12 heart crystals 	         750 Bells 	 Cyrus	
-Red wedding rug 	            Interior 	  4 heart crystals 	         375 Bells 	 Cyrus	
-Wedding-party wall 	            Interior 	 12 heart crystals 	         437 Bells 	 Cyrus	
-White wedding flooring 	        Interior 	 12 heart crystals 	         750 Bells 	 Cyrus	
-White wedding rug 	            Interior 	  4 heart crystals 	         375 Bells 	 Cyrus	
-White wedding wall 	            Interior 	 12 heart crystals 	         750 Bells 	 Cyrus	
-Wedding wand 	                Tool              Not for sale 	       3,500 Bells 	 Crafting	
-Worn axe 	                    Tool 	              40 Bells 	          10 Bells   May Day	
-Hedge 	                        Fence 	          Not for sale 	          55 Bells 	 Crafting	
-Wedding fence 	                Fence 	          Not for sale 	         411 Bells 	 Crafting	
-Blue-hydrangea bush 	        Others 	          Not for sale 	         140 Bells 	 Blue-hydrangea start	
-Blue-hydrangea start 	        Others 	             280 Bells 	          70 Bells 	 Leif	
-Heart crystal 	                Others 	          Not for sale 	         100 Bells 	 Reese;  Harvey
-Holly bush 	                    Others 	          Not for sale 	         140 Bells 	 Holly start	
-Holly start 	                Others 	             280 Bells 	          70 Bells 	 Leif	
-Orange-tea-olive bush 	        Others 	          Not for sale 	         140 Bells 	 Orange-tea-olive start	
-Orange-tea-olive start 	        Others 	             280 Bells 	          70 Bells 	 Leif	
-Pink-azalea bush 	            Others 	          Not for sale 	         140 Bells 	 Pink-azalea start	
-Pink-azalea start 	            Others 	             280 Bells 	          70 Bells 	 Leif	
-Pink-camellia bush 	            Others 	          Not for sale 	         140 Bells 	 Pink-camellia start	
-Pink-camellia start 	        Others 	             280 Bells 	          70 Bells 	 Leif	
-Pink-hydrangea bush 	        Others 	          Not for sale 	         140 Bells 	 Pink-hydrangea start	
-Pink-hydrangea start 	        Others 	             280 Bells 	          70 Bells 	 Leif	
-Red-camellia bush 	            Others 	          Not for sale 	         140 Bells 	 Red-camellia start	
-Red-camellia start 	            Others 	             280 Bells 	          70 Bells 	 Leif	
-Red-hibiscus bush 	            Others 	          Not for sale 	         140 Bells 	 Red-hibiscus start	
-Red-hibiscus start 	            Others 	             280 Bells 	          70 Bells 	 Leif	
-White-azalea bush 	            Others 	          Not for sale 	         140 Bells 	 White-azalea start	
-White-azalea start 	            Others 	             280 Bells 	          70 Bells 	 Leif	
-Yellow-hibiscus bush 	        Others 	          Not for sale 	         140 Bells 	 Yellow-hibiscus start	
-Yellow-hibiscus start 	        Others 	             280 Bells 	          70 Bells 	 Leif	
-Yellow-tea-olive bush 	        Others 	          Not for sale 	         140 Bells 	 Yellow-tea-olive start	
-Yellow-tea-olive start 	        Others 	             280 Bells 	          70 Bells 	 Leif	
+| Item                            | Type      |         Buy price | Sell price     | Available from          |
+|---------------------------------|-----------|-------------------|----------------|-------------------------|
+| Academic painting               | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Academic painting (fake)        | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Amazing painting                | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Amazing painting (fake)         | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Ancient statue                  | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Ancient statue (fake)           | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Basic painting                  | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Basic painting (fake)           | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Beautiful statue                | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Beautiful statue (fake)         | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Bug plaque                      | Furniture |      Not for sale |    2,500 Bells | Blathers                                    |
+| Calm painting                   | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Common painting                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Detailed painting               | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Detailed painting (fake)        | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Dynamic painting                | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Familiar statue                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Famous painting                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Famous painting (fake)          | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Fish plaque                     | Furniture |      Not for sale |    2,500 Bells | Blathers                                    |
+| Flowery painting                | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Fossil plaque                   | Furniture |      Not for sale |    2,500 Bells | Blathers                                    |
+| Gallant statue                  | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Gallant statue (fake)           | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Glowing painting                | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Graceful painting               | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Graceful painting (fake)        | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Great statue                    | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Informative statue              | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Informative statue (fake)       | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Jolly painting                  | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Jolly painting (fake)           | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Moody painting                  | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Motherly statue                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Motherly statue (fake)          | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Moving painting                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Moving painting (fake)          | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Mysterious painting             | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Mystic statue                   | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Mystic statue (fake)            | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Nice painting                   | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Perfect painting                | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Proper painting                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Quaint painting                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Quaint painting (fake)          | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Reese & Cyrus photo plate       | Furniture |      Not for sale |      100 Bells | Reese                                       |
+| Robust statue                   | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Robust statue (fake)            | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Rock-head statue                | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Rock-head statue (fake)         | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Rover's briefcase               | Furniture |      Not for sale |    2,000 Bells | Rover                                       | 
+| Scary painting                  | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Scary painting (fake)           | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Scenic painting                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Scenic painting (fake)          | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Serene painting (fake)          | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Sinking painting                | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Solemn painting                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Solemn painting (fake)          | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Thank-you Dad mug               | Furniture |         600 Bells |      150 Bells | Nook Shopping                               | 
+| Thank-you Mom mug               | Furniture |         600 Bells |      150 Bells | Nook Shopping                               | 
+| Tremendous statue               | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Tremendous statue (fake)        | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Twinkling painting              | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Valiant statue                  | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Valiant statue (fake)           | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Warm painting                   | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Warrior statue                  | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Warrior statue (fake)           | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Wedding arch                    | Furniture | 20 heart crystals |    5,000 Bells | Cyrus                                       |
+| Wedding bench                   | Furniture |  5 heart crystals |      875 Bells | Cyrus; Reese                                |
+| Wedding cake                    | Furniture |  5 heart crystals |    1,000 Bells | Cyrus                                       | 
+| Wedding candle set              | Furniture |  4 heart crystals |      300 Bells | Cyrus                                       | 
+| Wedding chair                   | Furniture |  3 heart crystals |      500 Bells | Cyrus                                       | 
+| Wedding decoration              | Furniture |  3 heart crystals |      250 Bells | Cyrus                                       | 
+| Wedding flower stand            | Furniture |  4 heart crystals |    1,000 Bells | Cyrus                                       | 
+| Wedding head table              | Furniture |  6 heart crystals |      750 Bells | Cyrus                                       | 
+| Wedding pipe organ              | Furniture | 40 heart crystals |   25,000 Bells | Cyrus                                       | 
+| Wedding table                   | Furniture |  6 heart crystals |    1,500 Bells | Cyrus                                       | 
+| Wedding welcome board           | Furniture |  5 heart crystals |      375 Bells | Cyrus                                       | 
+| Wild painting left half         | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Wild painting left half (fake)  | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Wild painting right half        | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Wild painting right half (fake) | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Wistful painting                | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| Wistful painting (fake)         | Furniture |       4,980 Bells | Cannot be sold | Jolly Redd's Treasure Trawler; Redd's Co-Op |
+| World map                       | Furniture |         640 Bells |      160 Bells | Nook Shopping; Nintendo                     |
+| Worthy painting                 | Furniture |       4,980 Bells |    1,245 Bells | Jolly Redd's Treasure Trawler               |
+| Bridal veil                     | Clothing  | 12 heart crystals |    1,150 Bells | Cyrus                                       | 
+| Coral Nook Inc. aloha shirt     | Clothing  |    600 Nook Miles |    3,000 Bells | Nook Stop                                   | 
+| Green Nook Inc. aloha shirt     | Clothing  |    600 Nook Miles |    3,000 Bells | Nook Stop                                   | 
+| Handmade cape                   | Clothing  |         500 Bells |      125 Bells | Nook Shopping                               | 
+| Handmade crown                  | Clothing  |         300 Bells |       75 Bells | Nook Shopping                               | 
+| Midwinter sweater               | Clothing  |       1,200 Bells |      300 Bells | Nook Shopping                               | 
+| Sunflower crown                 | Clothing  |       1,560 Bells |      390 Bells | Nook Shopping                               | 
+| Wedding dress                   | Clothing  | 20 heart crystals |    5,000 Bells | Cyrus                                       | 
+| Wedding pumps                   | Clothing  |  6 heart crystals |      750 Bells | Cyrus                                       | 
+| Wedding shoes                   | Clothing  |  6 heart crystals |      750 Bells | Cyrus                                       | 
+| Wedding tuxedo                  | Clothing  | 20 heart crystals |    3,000 Bells | Cyrus                                       | 
+| Bell-bag rug                    | Interior  |  1,200 Nook Miles |    6,000 Bells | Nook Stop; Bank of Nook                     |
+| Blue wedding rug                | Interior  |  4 heart crystals |      375 Bells | Cyrus                                       | 
+| Brown wedding flooring          | Interior  | 12 heart crystals |      750 Bells | Cyrus                                       | 
+| Brown wedding wall              | Interior  | 12 heart crystals |      750 Bells | Cyrus                                       | 
+| Green wedding flooring          | Interior  | 12 heart crystals |      750 Bells | Cyrus                                       | 
+| Green wedding wall              | Interior  | 12 heart crystals |      750 Bells | Cyrus                                       | 
+| Red wedding rug                 | Interior  |  4 heart crystals |      375 Bells | Cyrus                                       | 
+| Wedding-party wall              | Interior  | 12 heart crystals |      437 Bells | Cyrus                                       | 
+| White wedding flooring          | Interior  | 12 heart crystals |      750 Bells | Cyrus                                       | 
+| White wedding rug               | Interior  |  4 heart crystals |      375 Bells | Cyrus                                       | 
+| White wedding wall              | Interior  | 12 heart crystals |      750 Bells | Cyrus                                       | 
+| Wedding wand                    | Tool      |      Not for sale |    3,500 Bells | Crafting                                    | 
+| Worn axe                        | Tool      |          40 Bells |       10 Bells | May Day                                     | 
+| Hedge                           | Fence     |      Not for sale |       55 Bells | Crafting                                    | 
+| Wedding fence                   | Fence     |      Not for sale |      411 Bells | Crafting                                    | 
+| Blue-hydrangea bush             | Others    |      Not for sale |      140 Bells | Blue-hydrangea start                        | 
+| Blue-hydrangea start            | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| Heart crystal                   | Others    |      Not for sale |      100 Bells | Reese; Harvey                               |
+| Holly bush                      | Others    |      Not for sale |      140 Bells | Holly start                                 |
+| Holly start                     | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| Orange-tea-olive bush           | Others    |      Not for sale |      140 Bells | Orange-tea-olive start                      |
+| Orange-tea-olive start          | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| Pink-azalea bush                | Others    |      Not for sale |      140 Bells | Pink-azalea start                           |
+| Pink-azalea start               | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| Pink-camellia bush              | Others    |      Not for sale |      140 Bells | Pink-camellia start                         |
+| Pink-camellia start             | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| Pink-hydrangea bush             | Others    |      Not for sale |      140 Bells | Pink-hydrangea start                        |
+| Pink-hydrangea start            | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| Red-camellia bush               | Others    |      Not for sale |      140 Bells | Red-camellia start                          |
+| Red-camellia start              | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| Red-hibiscus bush               | Others    |      Not for sale |      140 Bells | Red-hibiscus start                          |
+| Red-hibiscus start              | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| White-azalea bush               | Others    |      Not for sale |      140 Bells | White-azalea start                          |
+| White-azalea start              | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| Yellow-hibiscus bush            | Others    |      Not for sale |      140 Bells | Yellow-hibiscus start                       |
+| Yellow-hibiscus start           | Others    |         280 Bells |       70 Bells | Leif                                        | 
+| Yellow-tea-olive bush           | Others    |      Not for sale |      140 Bells | Yellow-tea-olive start                      |
+| Yellow-tea-olive start          | Others    |         280 Bells |       70 Bells | Leif                                        | 
 
+---
 
 ### Version 1.3.0 - Free Summer Update Wave 1 (July 3, 2020)
 
@@ -342,51 +353,51 @@ A new Nook Shopping seasonal event has been added. To celebrate Tanabata, a trad
 #### Items added in 1.3.0
 
 ##### Item                      Type              Buy price         Sell price   Available from
-Bamboo grass 	                Furniture 	    3,080 Bells 	     770 Bells 	 Nook Shopping	
-Mermaid bed 	                Furniture 	   Not for sale 	  22,400 Bells 	 Crafting	
-Mermaid chair 	                Furniture 	   Not for sale 	  11,140 Bells 	 Crafting	
-Mermaid closet 	                Furniture 	   Not for sale 	  11,140 Bells 	 Crafting	
-Mermaid dresser 	            Furniture 	   Not for sale 	  22,400 Bells 	 Crafting	
-Mermaid lamp 	                Furniture 	   Not for sale 	  13,850 Bells 	 Crafting	
-Mermaid screen 	                Furniture 	   Not for sale 	  23,300 Bells 	 Crafting	
-Mermaid shelf 	                Furniture 	   Not for sale 	  12,900 Bells 	 Crafting	
-Mermaid sofa 	                Furniture 	   Not for sale 	  11,200 Bells 	 Crafting	
-Mermaid table 	                Furniture 	   Not for sale 	  10,480 Bells 	 Crafting	
-Mermaid vanity 	                Furniture 	   Not for sale 	  12,650 Bells 	 Crafting	
-Mermaid wall clock 	            Furniture 	   Not for sale 	  12,290 Bells 	 Crafting	
-Pirate barrel 	                Furniture 	   Not for sale 	     200 Bells 	 Gullivarrr	
-Pirate-ship cannon 	            Furniture 	   Not for sale 	     455 Bells 	 Gullivarrr	
-Pirate-ship helm 	            Furniture 	   Not for sale 	     280 Bells 	 Gullivarrr	
-Pirate-treasure chest 	        Furniture 	   Not for sale 	  20,000 Bells 	 Gullivarrr	
-Sideways pirate barrel 	        Furniture 	   Not for sale 	     200 Bells 	 Gullivarrr	
-Horizontal-striped wet suit     Clothing 	    3,000 Bells 	     750 Bells 	 Nook's Cranny	
-Leaf-print wet suit 	        Clothing 	    3,000 Bells 	     750 Bells 	 Nook Shopping	
-Mermaid fishy dress 	        Clothing 	   Not for sale 	   1,000 Bells 	 Pascal	
-Mermaid princess dress 	        Clothing 	   Not for sale 	   1,500 Bells 	 Pascal	
-Mermaid shoes 	                Clothing 	   Not for sale 	     450 Bells 	 Pascal	
-Mermaid tiara 	                Clothing 	   Not for sale 	   1,000 Bells 	 Pascal	
-Nook Inc. snorkel 	            Clothing 	 500 Nook Miles 	   2,500 Bells 	 Nook Stop	
-Nook Inc. wet suit 	            Clothing 	 800 Nook Miles 	   4,000 Bells 	 Nook Stop	
-Pirate bandanna 	            Clothing 	   Not for sale 	     200 Bells 	 Gullivarrr	
-Pirate beard 	                Clothing 	   Not for sale 	     245 Bells 	 Gullivarrr	
-Pirate boots 	                Clothing 	   Not for sale 	     660 Bells 	 Gullivarrr	
-Pirate dress 	                Clothing 	   Not for sale 	     630 Bells 	 Gullivarrr	
-Pirate eye patch 	            Clothing 	   Not for sale 	      70 Bells 	 Gullivarrr	
-Pirate outfit 	                Clothing 	   Not for sale 	     750 Bells 	 Gullivarrr	
-Pirate pants 	                Clothing 	   Not for sale 	     800 Bells 	 Gullivarrr	
-Pirate's hat 	                Clothing 	   Not for sale 	     860 Bells 	 Gullivarrr	
-Pirate-treasure crown 	        Clothing 	   Not for sale 	   2,500 Bells 	 Gullivarrr	
-Pirate-treasure robe 	        Clothing 	   Not for sale 	   3,000 Bells 	 Gullivarrr	
-Sea captain's coat 	            Clothing 	   Not for sale 	   1,200 Bells 	 Gullivarrr	
-Snorkel mask 	                Clothing 	      700 Bells 	     175 Bells 	 Mabel;  Able Sisters
-Mermaid flooring 	            Interior 	   Not for sale 	  20,975 Bells 	 Crafting	
-Mermaid rug 	                Interior 	   Not for sale 	  10,360 Bells 	 Crafting	
-Mermaid wall 	                Interior 	   Not for sale 	  23,520 Bells 	 Crafting	
-Pirate flooring 	            Interior 	   Not for sale 	     750 Bells 	 Gullivarrr	
-Pirate rug 	                    Interior 	   Not for sale 	     375 Bells 	 Gullivarrr	
-Pirate wall 	                Interior 	   Not for sale 	     750 Bells 	 Gullivarrr	
-Pearl 	                        Material 	   Not for sale 	  10,000 Bells 	 Diving;  Pascal
-Communicator 	                Others 	       Not for sale 	Cannot be sold 	 Diving	
+Bamboo grass  | Furniture |     3,080 Bells |      770 Bells |  Nook Shopping | 
+Mermaid bed  | Furniture |    Not for sale |   22,400 Bells |  Crafting | 
+Mermaid chair  | Furniture |    Not for sale |   11,140 Bells |  Crafting | 
+Mermaid closet  | Furniture |    Not for sale |   11,140 Bells |  Crafting | 
+Mermaid dresser  | Furniture |    Not for sale |   22,400 Bells |  Crafting | 
+Mermaid lamp  | Furniture |    Not for sale |   13,850 Bells |  Crafting | 
+Mermaid screen  | Furniture |    Not for sale |   23,300 Bells |  Crafting | 
+Mermaid shelf  | Furniture |    Not for sale |   12,900 Bells |  Crafting | 
+Mermaid sofa  | Furniture |    Not for sale |   11,200 Bells |  Crafting | 
+Mermaid table  | Furniture |    Not for sale |   10,480 Bells |  Crafting | 
+Mermaid vanity  | Furniture |    Not for sale |   12,650 Bells |  Crafting | 
+Mermaid wall clock  | Furniture |    Not for sale |   12,290 Bells |  Crafting | 
+Pirate barrel  | Furniture |    Not for sale |      200 Bells |  Gullivarrr | 
+Pirate-ship cannon  | Furniture |    Not for sale |      455 Bells |  Gullivarrr | 
+Pirate-ship helm  | Furniture |    Not for sale |      280 Bells |  Gullivarrr | 
+Pirate-treasure chest  | Furniture |    Not for sale |   20,000 Bells |  Gullivarrr | 
+Sideways pirate barrel  | Furniture |    Not for sale |      200 Bells |  Gullivarrr | 
+Horizontal-striped wet suit     Clothing  |     3,000 Bells |      750 Bells |  Nook's Cranny | 
+Leaf-print wet suit  |         Clothing  |     3,000 Bells |      750 Bells |  Nook Shopping | 
+Mermaid fishy dress  |         Clothing  |    Not for sale |    1,000 Bells |  Pascal | 
+Mermaid princess dress  |         Clothing  |    Not for sale |    1,500 Bells |  Pascal | 
+Mermaid shoes  | Clothing  |    Not for sale |      450 Bells |  Pascal | 
+Mermaid tiara  | Clothing  |    Not for sale |    1,000 Bells |  Pascal | 
+Nook Inc. snorkel  | Clothing  |  500 Nook Miles |    2,500 Bells |  Nook Stop | 
+Nook Inc. wet suit  | Clothing  |  800 Nook Miles |    4,000 Bells |  Nook Stop | 
+Pirate bandanna  | Clothing  |    Not for sale |      200 Bells |  Gullivarrr | 
+Pirate beard  | Clothing  |    Not for sale |      245 Bells |  Gullivarrr | 
+Pirate boots  | Clothing  |    Not for sale |      660 Bells |  Gullivarrr | 
+Pirate dress  | Clothing  |    Not for sale |      630 Bells |  Gullivarrr | 
+Pirate eye patch  | Clothing  |    Not for sale |       70 Bells |  Gullivarrr | 
+Pirate outfit  | Clothing  |    Not for sale |      750 Bells |  Gullivarrr | 
+Pirate pants  | Clothing  |    Not for sale |      800 Bells |  Gullivarrr | 
+Pirate's hat  | Clothing  |    Not for sale |      860 Bells |  Gullivarrr | 
+Pirate-treasure crown  |         Clothing  |    Not for sale |    2,500 Bells |  Gullivarrr | 
+Pirate-treasure robe  |         Clothing  |    Not for sale |    3,000 Bells |  Gullivarrr | 
+Sea captain's coat  | Clothing  |    Not for sale |    1,200 Bells |  Gullivarrr | 
+Snorkel mask  | Clothing  |       700 Bells |      175 Bells |  Mabel;  Able Sisters
+Mermaid flooring  |             Interior  |    Not for sale |   20,975 Bells |  Crafting | 
+Mermaid rug  |                 Interior  |    Not for sale |   10,360 Bells |  Crafting | 
+Mermaid wall  |                 Interior  |    Not for sale |   23,520 Bells |  Crafting | 
+Pirate flooring  |             Interior  |    Not for sale |      750 Bells |  Gullivarrr | 
+Pirate rug  |                     Interior  |    Not for sale |      375 Bells |  Gullivarrr | 
+Pirate wall  |                 Interior  |    Not for sale |      750 Bells |  Gullivarrr | 
+Pearl  |                         Material  |    Not for sale |   10,000 Bells |  Diving;  Pascal
+Communicator  |                 Others  |        Not for sale | Cannot be sold |  Diving | 
 
 
 ### Version 1.4.0 - Summer Update Wave 2 (July 30, 2020)
@@ -428,33 +439,33 @@ Once inside a dream island, the player will be unable to access most of the apps
 #### Items added in 1.4.0
 
 ##### Item                  Type             Buy price      Sell price      Available from
-Luna's bed 	                Furniture 	  Not for sale 	    900 Bells 	    Luna	
-Rodeo-style springy ride-on Furniture 	   2,000 Bells 	    500 Bells 	    Nook Shopping	
-Bulb bopper 	            Clothing 	  Not for sale 	    245 Bells 	    Isabelle	
-Flower bopper 	            Clothing 	  Not for sale 	    245 Bells 	    Isabelle	
-Grape-harvest basket 	    Clothing 	     800 Bells 	    200 Bells 	    Nook Shopping	
-Heart bopper 	            Clothing 	  Not for sale 	    245 Bells 	    Isabelle	
-Hikoboshi outfit 	        Clothing 	   2,500 Bells 	    625 Bells 	    Nook Shopping	
-King Tut mask 	            Clothing 	  Not for sale 	    50,000 Bells 	Crafting	
-Orihime outfit 	            Clothing 	   2,500 Bells 	    625 Bells 	    Nook Shopping	
-Star bopper 	            Clothing 	  Not for sale 	    245 Bells 	    Isabelle	
-Fireworks-show wall 	    Interior 	  Not for sale 	    750 Bells 	    Saharah;  Nintendo
-Moon rug 	                Interior 	   2,000 Bells 	    500 Bells 	    Nook Shopping	
-Blue balloon 	            Tool 	         600 Bells 	    150 Bells 	    Nook's Cranny;  Redd's Raffle
-Blue sparkler 	            Tool 	         600 Bells 	    150 Bells 	    Nook's Cranny;  Redd's Raffle
-Bubble blower 	            Tool 	         150 Bells 	     37 Bells 	    Nook's Cranny;  Redd's Raffle
-Green balloon 	            Tool 	         600 Bells 	    150 Bells 	    Nook's Cranny;  Redd's Raffle
-Nook Inc. handheld pennant 	Tool 	    500 Nook Miles 	  2,500 Bells 	    Nook Stop	
-Pink balloon 	            Tool 	         600 Bells 	    150 Bells 	    Nook's Cranny;  Redd's Raffle
-Pinwheel 	                Tool 	         800 Bells 	    200 Bells 	    Nook's Cranny;  Redd's Raffle
-Red balloon 	            Tool 	         600 Bells 	    150 Bells 	    Nook's Cranny;  Redd's Raffle
-Red sparkler 	            Tool 	         600 Bells 	    150 Bells 	    Nook's Cranny;  Redd's Raffle
-Tweeter 	                Tool 	         800 Bells 	    200 Bells 	    Nook's Cranny;  Redd's Raffle
-Uchiwa fan 	                Tool 	         800 Bells 	    200 Bells 	    Nook's Cranny;  Redd's Raffle
-Yellow balloon          	Tool 	         600 Bells 	    150 Bells 	    Nook's Cranny;  Redd's Raffle
-Dream Bell exchange ticket 	Others 	      Not for sale 	  5,000 Bells 	    Luna	
-Fountain firework 	        Others 	         600 Bells 	    150 Bells 	    Nook's Cranny;  Redd's Raffle
-Used fountain firework 	    Others 	      Not for sale 	     10 Bells 	    Fountain firework	
+Luna's bed  | Furniture |   Not for sale |     900 Bells |     Luna | 
+Rodeo-style springy ride-on Furniture  |    2,000 Bells |     500 Bells |     Nook Shopping | 
+Bulb bopper  | Clothing  |   Not for sale |     245 Bells |     Isabelle | 
+Flower bopper  | Clothing  |   Not for sale |     245 Bells |     Isabelle | 
+Grape-harvest basket  |     Clothing  |      800 Bells |     200 Bells |     Nook Shopping | 
+Heart bopper  | Clothing  |   Not for sale |     245 Bells |     Isabelle | 
+Hikoboshi outfit  |         Clothing  |    2,500 Bells |     625 Bells |     Nook Shopping | 
+King Tut mask  | Clothing  |   Not for sale |     50,000 Bells | Crafting | 
+Orihime outfit  | Clothing  |    2,500 Bells |     625 Bells |     Nook Shopping | 
+Star bopper  | Clothing  |   Not for sale |     245 Bells |     Isabelle | 
+Fireworks-show wall  |     Interior  |   Not for sale |     750 Bells |     Saharah;  Nintendo
+Moon rug  |                 Interior  |    2,000 Bells |     500 Bells |     Nook Shopping | 
+Blue balloon  |             Tool  |          600 Bells |     150 Bells |     Nook's Cranny;  Redd's Raffle
+Blue sparkler  |             Tool  |          600 Bells |     150 Bells |     Nook's Cranny;  Redd's Raffle
+Bubble blower  |             Tool  |          150 Bells |      37 Bells |     Nook's Cranny;  Redd's Raffle
+Green balloon  |             Tool  |          600 Bells |     150 Bells |     Nook's Cranny;  Redd's Raffle
+Nook Inc. handheld pennant  | Tool  |     500 Nook Miles |   2,500 Bells |     Nook Stop | 
+Pink balloon  |             Tool  |          600 Bells |     150 Bells |     Nook's Cranny;  Redd's Raffle
+Pinwheel  |                 Tool  |          800 Bells |     200 Bells |     Nook's Cranny;  Redd's Raffle
+Red balloon  |             Tool  |          600 Bells |     150 Bells |     Nook's Cranny;  Redd's Raffle
+Red sparkler  |             Tool  |          600 Bells |     150 Bells |     Nook's Cranny;  Redd's Raffle
+Tweeter  |                 Tool  |          800 Bells |     200 Bells |     Nook's Cranny;  Redd's Raffle
+Uchiwa fan  |                 Tool  |          800 Bells |     200 Bells |     Nook's Cranny;  Redd's Raffle
+Yellow balloon           | Tool  |          600 Bells |     150 Bells |     Nook's Cranny;  Redd's Raffle
+Dream Bell exchange ticket  | Others    |       Not for sale |   5,000 Bells |     Luna | 
+Fountain firework  |         Others  |          600 Bells |     150 Bells |     Nook's Cranny;  Redd's Raffle
+Used fountain firework  |     Others  |       Not for sale |      10 Bells |     Fountain firework | 
 
 
 ### Version 1.5.0 - Fall Update (September 30, 2020)
@@ -663,28 +674,34 @@ All bugs now have the same chance to spawn in each month in which they are set t
 
 Wisp's item gifts chances have changed. Prior to this update, whenever the player asks for "something new", Wisp would obtain an item in a price range of 0– 1,999 Bells. When asking for "something expensive", Wisp would obtain an item in a price range of 0– 14,999 Bells. In this update, the selling range has changed, and asking for "something expensive" will now result in Wisp pulling from two tables. 
 
-**Something new**
+###### Something new
 
-**Category              Min             Max**
-- Furniture	            300 Bells	    2,499 Bells
-- Wallpaper             300 Bells	    2,499 Bells
-- Flooring 	            300 Bells	    2,499 Bells
-- Clothing 	            300 Bells       1,999 Bells
-		
-**Something expensive***
+| Category  | Min       | Max         |
+|-----------|-----------|-------------|
+| Furniture | 300 Bells | 2,499 Bells |
+| Wallpaper | 300 Bells | 2,499 Bells |
+| Flooring  | 300 Bells | 2,499 Bells |
+| Clothing  | 300 Bells | 1,999 Bells |
 
-**Category Table 1      Min             Max**
-- Furniture             2,000 Bells     14,999 Bells
-- Wallpaper             1,850 Bells 	 9,999 Bells
-- Flooring              1,850 Bells 	 9,999 Bells
-- Clothing              1,800 Bells 	 9,999 Bells
+###### Something expensive
 
-**Category Table 2      Min             Max**
-- Furniture             10 Bells     	14,999 Bells
-- Wallpaper             10 Bells     	 2,999 Bells
-- Flooring              10 Bells     	 2,999 Bells
-- Clothing              10 Bells     	 4,999 Bells
+**Table 1**
 
+| Category  | Min         | Max          |
+|-----------|-------------|--------------|
+| Furniture | 2,000 Bells | 14,999 Bells |
+| Wallpaper | 1,850 Bells |  9,999 Bells |
+| Flooring  | 1,850 Bells |  9,999 Bells |
+| Clothing  | 1,800 Bells |  9,999 Bells |
+
+**Table 2**
+
+| Category  | Min       | Max          |
+|-----------|-----------|--------------|
+| Furniture |  10 Bells | 14,999 Bells |
+| Wallpaper |  10 Bells |  2,999 Bells |
+| Flooring  |  10 Bells |  2,999 Bells |
+| Clothing  |  10 Bells |  4,999 Bells |
 
 ##### Other changes
 
